@@ -466,23 +466,6 @@ Adventure Works Cycles operates a **strong and profitable business** with a 41.1
 North America is the dominant market by volume, while Europe (especially the United Kingdom) and Pacific (Australia) contribute meaningfully and represent real growth opportunities. The dashboard gives decision-makers a clear, filterable, real-time view of the entire business — making it a practical tool for sales managers, product leads, and executives.
 
 ---
-
-## 12. Future Work
-
-| Enhancement | Description | Level |
-|---|---|---|
-| **Migrate to Power BI** | Rebuild with DAX measures, drill-through pages, and web sharing | Intermediate |
-| **Sales Forecasting** | Use `FORECAST.ETS` in Excel or Power BI AI visuals to predict future sales | Intermediate |
-| **RFM Segmentation** | Segment customers by Recency, Frequency, Monetary value to find VIPs and at-risk groups | Advanced |
-| **Product Profitability** | Calculate margin at individual product level — identify what to push and what to retire | Intermediate |
-| **Geographic Map Visual** | Plot sales by country on a real world map using Excel 3D Maps or Power BI | Beginner |
-| **Budget vs Actual** | Add variance analysis to show where sales beat or missed targets | Intermediate |
-| **Returns Analysis** | Integrate refund/return data to calculate true net revenue | Intermediate |
-| **Live Data Refresh** | Connect to a database or SharePoint so the dashboard auto-refreshes | Advanced |
-| **Python / SQL Version** | Rebuild the full pipeline in Python (Pandas + Matplotlib) or SQL + Tableau | Advanced |
-
----
-
 ## 📁 Project Files
 
 ```
